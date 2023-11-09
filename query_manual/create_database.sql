@@ -11,9 +11,8 @@ mysql> SHOW DATABASES;
 | mysql              |
 | one_to_many_db     |
 | performance_schema |
-| perpus             |
 | sakila             |
 | sys                |
 | world              |
 +--------------------+
-10 rows in set (0.00 sec)
+9 rows in set (0.00 sec)
